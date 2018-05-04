@@ -1,6 +1,4 @@
 # How to use Git Repo 
-For testing purpose,
-Changes made.
 Steps:
 1. Login to github
 2. Create a repository (master)
